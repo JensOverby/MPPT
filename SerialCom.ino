@@ -69,6 +69,10 @@ int getCommand()
 
         switch (hashValue)
         {
+        case 27735: // help
+          bytesExpected = -1;
+          c = CMD_REGULATE;
+          break;
         case 18536: // help
           bytesExpected = -1;
           c = CMD_HELP;
@@ -84,6 +88,10 @@ int getCommand()
         case 6994: // calcur
           bytesExpected = -1;
           c = CMD_CALIBRATE_CURRENT;
+          break;
+        case 35994: // store
+          bytesExpected = -1;
+          c = CMD_STORE_EEPROM;
           break;
         default:
           break;
