@@ -1,0 +1,232 @@
+
+SWITCH BETWEEN NVIDIA AND NOUVEAU:
+
+prime-select query
+
+
+
+https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1727237
+
+Today I edited /etc/resolv.conf as before, adding Google DNS to show this.
+
+nameserver 127.0.0.53
+nameserver 8.8.8.8
+
+
+options snd-hda-intel model=laptop
+
+To:
+/etc/modprobe.d/alsa-base.conf
+
+Then reboot
+
+
+Phd Planner:
+jens.overby@eng.au.dk
+psw: Eurocard#1
+
+
+VPN AU:
+Cisco client
+au643623@uni.au.dk
+Mastercard#2
+
+python3 -c "import GPUtil;GPUtil.showUtilization()"
+nohup ./start_msra.sh &
+ps -ef | grep "jens"
+tail -f nohup.out
+
+Freja:
+ssh jens@freja.st.client.au.dk
+psw: Eurocard#1
+
+tBrain:
+ssh jens@10.29.1.73
+psw: Eurocard#1
+
+AUENG Slack
+https://app.slack.com/client/TGXQQTV6C/CH19FB24F
+name: Jens Overby
+psw: Eurocard#1
+
+Playstation:
+jens_overby@yahoo.com
+Eurocard#1
+
+hotmail:
+Eurocard#1
+
+AU:
+au643623
+Mastercard#2
+
+
+Github:
+JensOverby
+jens_overby@yahoo.com
+Mastercard#1
+
+workday:
+jens.overby
+Mastercard#4
+
+AWS:
+JensOverby
+Eurocard#1
+jens.overby@marel.com
+
+genymotion:
+jens.overby
+aboilers
+
+stofa:
+jens_overby@yahoo.com
+Jens241071
+
+don.ybs@gmail.com
+ejnaragnes
+
+Digterparken:
+Digt-JenOve
+aboilers
+
+Gammelgaardsskolen:
+jens170t
+ejnaragnes
+
+yahoo
+ejnaragnes
+
+ingeniøren:
+jens_overby@yahoo.com
+aboilers
+
+Skype:
+don.ybs@gmail.com
+Aboilers1
+
+facebook:
+jens_overby@hotmail.com
+aalborgboilers
+
+amazon de:
+jens_overby@hotmail.com
+Eurocard#1
+
+amazon co.uk:
+jens_overby@hotmail.com
+aboilers (måske samme som .de)
+
+spotify:
+jens_overby@hotmail.com
+aboilers
+
+paypal:
+jens_overby@yahoo.com
+M.........#2
+
+dropbox:
+jens_overby@yahoo.com
+ejnaragnes
+
+Ebay:
+jens_overby@yahoo.com
+1Boilers
+
+Lokalt Bibliotek:
+82753
+
+bibliotek.dk
+jens_overby@yahoo.com
+aboilers
+
+linkedin:
+jens_overby@yahoo.com
+Eurocard1
+
+.\localadmin
+Mastercard#1
+
+marel
+Eurocard#1
+
+stackexchange:
+jens_overby@yahoo.com
+aboilers1
+
+55nord:
+21920526
+hAjGg8ND
+
+gammelgårdsskolen, ejnar:
+ejna0276
+skole123
+
+e-grant:
+jens.overby@marel.com
+Eurocard#1
+
+Marel Guest:
+Account Username:	
+jens_overby@yahoo.com
+Guest Password:	135749
+Activation Time:	
+Tuesday, 20 November 2018, 8:35 AM
+Expiration Time:	
+Wednesday, 20 February 2019, 8:35
+
+NVidia:
+kajikast
+jens_overby@yahoo.com
+Eurocard#1
+
+guloggratis
+jens.overby@marel.com
+bruger: jens_overby
+psw: Eurocard#1
+
+
+ejnar.andeby@gmail.com
+andeby#1
+
+BBC:
+jens_overby@yahoo.com
+jens1971
+
+
+ExpressVPN:
+don.ybs@gmail.com
+Eurocard#1
+
+expresspvn list
+expressvpn connect sweden
+expressvpn disconnect
+
+jobnet.dk
+jens_overby@yahoo.com
+Eurocard1
+
+Hinnerup Garden:
+jens_overby@yahoo.com
+aboilers
+
+bugten.dk
+jens_overby@yahoo.com
+aboilers
+
+pandora music:
+jens_overby@yahoo.com
+aboilers
+
+viaplay (silkeborg)
+hesteskoen7@gmail.com
+12345678
+
+UPS:
+jensoverby
+jens_overby@yahoo.com
+Eurocard#1
+
+ROBLOX:
+kajikast
+ejnar1234
