@@ -4,8 +4,6 @@ static unsigned int bytesReceived = 0;
 static unsigned int bytesExpected = 0;
 static unsigned int hashValue = 0;
 
-
-
 void myputs(char* str)
 {
   Serial.print(str);
@@ -69,10 +67,6 @@ int getCommand()
 
         switch (hashValue)
         {
-        case 27735: // help
-          bytesExpected = -1;
-          c = CMD_REGULATE;
-          break;
         case 18536: // help
           bytesExpected = -1;
           c = CMD_HELP;
@@ -85,13 +79,9 @@ int getCommand()
           bytesExpected = -1;
           c = CMD_DUTY;
           break;
-        case 6994: // calcur
+        case 27735: // regulate
           bytesExpected = -1;
-          c = CMD_CALIBRATE_CURRENT;
-          break;
-        case 35994: // store
-          bytesExpected = -1;
-          c = CMD_STORE_EEPROM;
+          c = CMD_REGULATE;
           break;
         default:
           break;
